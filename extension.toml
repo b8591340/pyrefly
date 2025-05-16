@@ -1,0 +1,11 @@
+id = "pyrefly"
+name = "Pyrefly"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ben Kunkle <ben@zed.dev>"]
+description = "Support for the Pyrefly static type checker for Python in Zed"
+repository = "https://github.com/zed-extensions/pyrefly"
+
+[language_servers.pyrefly]
+name = "Pyreflyu"
+languages = ["Python"]
