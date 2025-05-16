@@ -7,5 +7,5 @@ description = "Support for the Pyrefly static type checker for Python in Zed"
 repository = "https://github.com/zed-extensions/pyrefly"
 
 [language_servers.pyrefly]
-name = "Pyreflyu"
+name = "Pyrefly"
 languages = ["Python"]
